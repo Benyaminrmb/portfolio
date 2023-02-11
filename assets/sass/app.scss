@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  font-family: Mona-Sans, serif;
+}
+@font-face {
+  font-family: Mona-Sans;
+  src: url("../fonts/Mona-Sans.woff");
+}
