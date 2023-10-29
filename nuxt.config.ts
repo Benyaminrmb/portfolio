@@ -41,10 +41,12 @@ export default defineNuxtConfig({
     // modules
     modules: [
         '@pinia/nuxt',
-        // '@nuxt/content',
-        // '@vueuse/nuxt',
+        '@nuxt/content',
+        '@vueuse/nuxt',
         '@nuxtjs/tailwindcss',
         '@nuxtjs/color-mode',
+        'nuxt-icon',
+        'nuxt-schema-org'
     ],
     postcss: {
         plugins: {
