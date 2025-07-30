@@ -24,7 +24,7 @@ useHead({
           <span class="font-black">Benyamin</span>
           <span class="font-extralight">Bolhasanii</span>
         </h1>
-        <h2 class="md:text-xl">mid-range full-stack developer</h2>
+        <h2 class="md:text-xl">full-stack developer</h2>
         <h3 class="text-gray-500">AKA :
           <strong>BenyaminRmb</strong>
         </h3>
